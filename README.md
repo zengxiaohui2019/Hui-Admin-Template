@@ -4,8 +4,8 @@
 1. 简述：当前是[码云 Hui-Admin-Pro](https://gitee.com/zengxiaohui2019/Hui-Admin-Pro) /
 [GitHub Hui-Admin-Pro](https://gitgub.com/zengxiaohui2019/Hui-Admin-Pro) 的母版，也就是基础Template版，只有基础组件和框架
    - Hui-Admin-Pro是基于[基础版 Hui-Admin-Template](https://github.com/zengxiaohui2019/Hui-Admin-Template) 增加更多复杂功能 
-   - [Hui-Admin-Pro 在线演示](https://www.zengxiaohui.com/Hui-Admin-Pro)
-   - [Hui-Admin-Template 在线演示](https://www.zengxiaohui.com/Hui-Admin-Template)
+   - [Hui-Admin-Pro 在线演示](https://github.zengxiaohui.com/Hui-Admin-Pro)
+   - [Hui-Admin-Template 在线演示](https://github.zengxiaohui.com/Hui-Admin-Template)
    - 说明：本人是写这个框架是抱着学习态度，无意冲突商业大佬利益。
    - 兼容说明：初测兼容ie11 360极速模式 谷歌 火狐 其他未测；界面适配笔记本和日常PC；不适配平板和手机。 
 2. 主要技术：
@@ -154,7 +154,7 @@ GitHub https://github.com/zengxiaohui2019/Hui-Admin-Template
 
 ### 效果
 
-在线演示：https://www.zengxiaohui.com/Hui-Admin-Template
+在线演示：https://github.zengxiaohui.com/Hui-Admin-Template
 ![时尚酷黑主题](other/admin1.jpg)
 ![极简雅白主题](other/admin2.jpg)
 
